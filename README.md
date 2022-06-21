@@ -1,3 +1,3 @@
-# Database-Management
+You can run the code with the below line:
 
-A simple database management system. 
+python3 2018400009_2018400027/src/horadrimSoftware.py inputFile outputFile
