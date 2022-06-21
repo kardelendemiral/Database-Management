@@ -1,4 +1,4 @@
-- This is an implementation of a basic database system.
+- This is an implementation of a basic database management system.
 
 - You can run the code with the below line:
 
